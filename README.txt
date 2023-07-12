@@ -1,4 +1,4 @@
-Project 1 R
+Basic Wordle project:
 
 Written by: Benjamin Harris
 
